@@ -1,0 +1,10 @@
+4
+maria clara
+8 1
+ana lima
+9 2
+clarice justo
+7 2
+sonia malta
+6 1
+
